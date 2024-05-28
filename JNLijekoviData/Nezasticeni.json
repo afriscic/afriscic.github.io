@@ -1,0 +1,2460 @@
+[
+ {
+  "Grupa": 762,
+  "Stavka": 1,
+  "ATK": "S01EC01 051",
+  "INN": "acetazolamid",
+  "Oblik": "amp. 500 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 763,
+  "Stavka": 1,
+  "ATK": "V03AB23 051",
+  "INN": "acetilcistein",
+  "Oblik": "otop. za infuziju, 100mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 764,
+  "Stavka": 1,
+  "ATK": "B01AC06 151",
+  "INN": "acetilsalicilna kiselina ",
+  "Oblik": "tbl.\/želučanootporna tbl. 75-100 mg ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 765,
+  "Stavka": 1,
+  "ATK": "N02BA01 151",
+  "INN": "acetilsalicilna kiselina ",
+  "Oblik": "tbl. 300 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 765,
+  "Stavka": 2,
+  "ATK": "N02BA01 151",
+  "INN": "acetilsalicilna kiselina ",
+  "Oblik": "tbl. 500 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 766,
+  "Stavka": 1,
+  "ATK": "C01CA24 051",
+  "INN": "adrenalin (epinefrin) ",
+  "Oblik": "amp. 1 mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 767,
+  "Stavka": 1,
+  "ATK": "P02CA03 151",
+  "INN": "albendazol",
+  "Oblik": "tbl. 200 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 768,
+  "Stavka": 1,
+  "ATK": "N01AH02 051",
+  "INN": "alfentanil",
+  "Oblik": "amp 0,5mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 769,
+  "Stavka": 1,
+  "ATK": "J02AA01 051",
+  "INN": "amfotericin B ",
+  "Oblik": "liposomalni prašak za disperziju za infuziju, 50 mg (50,000 jedinica)  ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 770,
+  "Stavka": 1,
+  "ATK": "J01GB06 051",
+  "INN": "amikacin",
+  "Oblik": "boč. 500mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 771,
+  "Stavka": 1,
+  "ATK": "R03DA05 051",
+  "INN": "aminofilin",
+  "Oblik": "amp.\/boč. 250 mg\/10 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 772,
+  "Stavka": 1,
+  "ATK": "B02AA01 052",
+  "INN": "aminokapronska kiselina",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 773,
+  "Stavka": 1,
+  "ATK": "N06AA09 051",
+  "INN": "amitriptilin",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 774,
+  "Stavka": 1,
+  "ATK": "J01CA01 051",
+  "INN": "ampicilin",
+  "Oblik": "boč.\/praš.za otop. 0,5g ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 775,
+  "Stavka": 1,
+  "ATK": "J01CA01 052",
+  "INN": "ampicilin",
+  "Oblik": "boč. 1 g",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 776,
+  "Stavka": 1,
+  "ATK": "L01XX01 051",
+  "INN": "amsakrin",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 777,
+  "Stavka": 1,
+  "ATK": "B02AB01 051",
+  "INN": "aprotinin ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 778,
+  "Stavka": 1,
+  "ATK": "N01BB08 051",
+  "INN": "artikain",
+  "Oblik": "amp. 40 mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 779,
+  "Stavka": 1,
+  "ATK": "N01BB58 053",
+  "INN": "artikain + adrenalin",
+  "Oblik": "amp. 40 mg\/ml+0,1 mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 779,
+  "Stavka": 2,
+  "ATK": "N01BB58 053",
+  "INN": "artikain + adrenalin",
+  "Oblik": "amp. 40 mg\/ml+0,05 mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 780,
+  "Stavka": 1,
+  "ATK": "N01BB58 053",
+  "INN": "artikain + adrenalin",
+  "Oblik": " amp.\/karp. 1,7 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 781,
+  "Stavka": 1,
+  "ATK": "M03AC04 051",
+  "INN": "atrakurij",
+  "Oblik": "amp. 5 ml\/50 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 782,
+  "Stavka": 1,
+  "ATK": "A03BA01 051",
+  "INN": "atropin",
+  "Oblik": "amp. 1mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 782,
+  "Stavka": 2,
+  "ATK": "A03BA01 051",
+  "INN": "atropin",
+  "Oblik": "amp. 0,5mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 783,
+  "Stavka": 1,
+  "ATK": "M03BX01 051",
+  "INN": "baklofen ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 784,
+  "Stavka": 1,
+  "ATK": "V08BA01 251",
+  "INN": "barij-sulfat ",
+  "Oblik": "suspenzija 2L",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 784,
+  "Stavka": 2,
+  "ATK": "V08AD02 055",
+  "INN": "smjesa etilnih estera jodiranih masnih kiselina (lipiodol-ultrafluid)",
+  "Oblik": "otopina za injekciju 10 ml  (480 mgl\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 785,
+  "Stavka": 1,
+  "ATK": "J01CE08 051",
+  "INN": "benzatin benzilpenicilin ",
+  "Oblik": "boč. 1,2 M i.j.",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 786,
+  "Stavka": 1,
+  "ATK": "J01CE01 051",
+  "INN": "benzilpenicilin ",
+  "Oblik": "prah za otop.za inj.\/inf. 1MIU",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 787,
+  "Stavka": 1,
+  "ATK": "J01CE30 051",
+  "INN": "benzilpenicilin prokainpenicilin (depo-bipenicilin)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 788,
+  "Stavka": 1,
+  "ATK": "L01DC01 051",
+  "INN": "bleomicin",
+  "Oblik": "boč. 15.000 IE",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 789,
+  "Stavka": 1,
+  "ATK": "G02CB01 151",
+  "INN": "bromokriptin",
+  "Oblik": "tbl. 2,5 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 790,
+  "Stavka": 1,
+  "ATK": "N01BB01 051",
+  "INN": "bupivakain",
+  "Oblik": "amp.\/otop.za inj. 0,5% 4 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 790,
+  "Stavka": 2,
+  "ATK": "N01BB01 051",
+  "INN": "bupivakain",
+  "Oblik": "amp.\/otop.za inj. 10ml (5 mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 791,
+  "Stavka": 1,
+  "ATK": "L01AB01 051",
+  "INN": "busulfan",
+  "Oblik": "ot. za inf. 10 ml (6 mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 792,
+  "Stavka": 1,
+  "ATK": "L01AB01 151",
+  "INN": "busulfan",
+  "Oblik": "tbl 25mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 793,
+  "Stavka": 1,
+  "ATK": "N01BB55 052",
+  "INN": "butanilkain + noradrenalin",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 794,
+  "Stavka": 1,
+  "ATK": "B03BA01 051",
+  "INN": "cijanokobalamin ",
+  "Oblik": "amp. 1mg\/ (1-2ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 795,
+  "Stavka": 1,
+  "ATK": "L01AA01 051",
+  "INN": "ciklofosfamid",
+  "Oblik": "200 mg prašak za otopinu za injekciju\/infuziju - staklena bočica od 20ml s praškom",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 796,
+  "Stavka": 1,
+  "ATK": "L01AA01 051",
+  "INN": "ciklofosfamid",
+  "Oblik": "500 mg prašak za otopinu za injekciju\/infuziju - staklena bočica od 50ml s praškom",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 796,
+  "Stavka": 2,
+  "ATK": "L01AA01 051",
+  "INN": "ciklofosfamid",
+  "Oblik": "1000 mg prašak za otopinu za injekciju\/infuziju - staklena bočica od 100ml s praškom",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 797,
+  "Stavka": 1,
+  "ATK": "B02BD07 051",
+  "INN": "čimbenik ugrušavanja krvi XIII",
+  "Oblik": "250 IJ.",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 798,
+  "Stavka": 1,
+  "ATK": "L01AX04 051",
+  "INN": "dakarbazin",
+  "Oblik": "amp. 200mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 799,
+  "Stavka": 1,
+  "ATK": "L01AX04 051",
+  "INN": "dakarbazin",
+  "Oblik": "amp. 100mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 800,
+  "Stavka": 1,
+  "ATK": "L01DA01 051",
+  "INN": "daktinomicin (aktinomicin-D)",
+  "Oblik": "boč. 500 mcg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 801,
+  "Stavka": 1,
+  "ATK": "G03XA01 151",
+  "INN": "danazol",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 802,
+  "Stavka": 1,
+  "ATK": "M03CA01 151",
+  "INN": "dantrolen",
+  "Oblik": "amp 20 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 803,
+  "Stavka": 1,
+  "ATK": "V03AC01 051",
+  "INN": "deferoksamin",
+  "Oblik": "amp. 500 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 804,
+  "Stavka": 1,
+  "ATK": "H01BA02 052",
+  "INN": "dezmopresin",
+  "Oblik": " amp. 1ml\/4 mcg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 805,
+  "Stavka": 1,
+  "ATK": "H01BA02 751",
+  "INN": "dezmopresin ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 806,
+  "Stavka": 1,
+  "ATK": "N05BA01 551",
+  "INN": "diazepam",
+  "Oblik": "klizma 10 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 806,
+  "Stavka": 2,
+  "ATK": "N05BA01 551",
+  "INN": "diazepam",
+  "Oblik": "klizma 5 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 807,
+  "Stavka": 1,
+  "ATK": "C02DA01 051",
+  "INN": "diazoksid ",
+  "Oblik": "caps 100 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 807,
+  "Stavka": 2,
+  "ATK": "C02DA01 051",
+  "INN": "diazoksid ",
+  "Oblik": "caps 25 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 808,
+  "Stavka": 1,
+  "ATK": "A11CC02 251",
+  "INN": "dihidrotahisterol ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 809,
+  "Stavka": 1,
+  "ATK": "B01AC07 051",
+  "INN": "dipiridamol",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 810,
+  "Stavka": 1,
+  "ATK": "N07BB01 151",
+  "INN": "disulfiram",
+  "Oblik": " tbl. 500 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 811,
+  "Stavka": 1,
+  "ATK": "N01AX13 951",
+  "INN": "dušik-oksidul",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 812,
+  "Stavka": 1,
+  "ATK": "G02AB03 051",
+  "INN": "ergometrin",
+  "Oblik": "amp. 0,20 mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 813,
+  "Stavka": 1,
+  "ATK": "J01FA01 051",
+  "INN": "eritromicin ",
+  "Oblik": " amp.\/boč. 500 mg                                                        ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 814,
+  "Stavka": 1,
+  "ATK": "J01FA01 051",
+  "INN": "eritromicin ",
+  "Oblik": "amp.\/boč. 1000 mg                                                            ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 815,
+  "Stavka": 1,
+  "ATK": "G03CA03 051",
+  "INN": "estradiol ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 816,
+  "Stavka": 1,
+  "ATK": "J04AK02 051",
+  "INN": "etambutol",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 817,
+  "Stavka": 1,
+  "ATK": "J04AK02 151",
+  "INN": "etambutol",
+  "Oblik": "tbl. 400 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 818,
+  "Stavka": 1,
+  "ATK": "C01CA01 052",
+  "INN": "etiladrianol",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 819,
+  "Stavka": 1,
+  "ATK": "L01CB01 151",
+  "INN": "etopozid",
+  "Oblik": "caps. 100 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 820,
+  "Stavka": 1,
+  "ATK": "N03AD01 351",
+  "INN": "etosuksimid ",
+  "Oblik": "sirup, 250 ml (50 mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 821,
+  "Stavka": 1,
+  "ATK": "N03AD01 351",
+  "INN": "etosuksimid ",
+  "Oblik": "caps. 250 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 822,
+  "Stavka": 1,
+  "ATK": "S01FB01 751",
+  "INN": "fenilefrin",
+  "Oblik": "10% kapi za oči",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 823,
+  "Stavka": 1,
+  "ATK": "N03AB02 051",
+  "INN": "fenitoin ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 824,
+  "Stavka": 1,
+  "ATK": "N03AB02 151",
+  "INN": "fenitoin ",
+  "Oblik": "tbl. 100 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 825,
+  "Stavka": 1,
+  "ATK": "N03AA02 051",
+  "INN": "fenobarbiton-natrij",
+  "Oblik": " amp. 100 mg\/2ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 826,
+  "Stavka": 1,
+  "ATK": "N03AA02 051",
+  "INN": "fenobarbiton-natrij",
+  "Oblik": "amp. 220 mg \/ amp. 219mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 827,
+  "Stavka": 1,
+  "ATK": "J01CE02 151",
+  "INN": "fenoksimetilpenicilin ",
+  "Oblik": "50 mg\/ml prašak za oralnu suspenziju",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 828,
+  "Stavka": 1,
+  "ATK": "G02CA03 051",
+  "INN": "fenoterol",
+  "Oblik": "amp 0,5 mg\/10 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 829,
+  "Stavka": 1,
+  "ATK": "N01AH51 051",
+  "INN": "fentanil + droperidol",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 830,
+  "Stavka": 1,
+  "ATK": "C04AB01 051",
+  "INN": "fentolamin",
+  "Oblik": "amp. 10 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 831,
+  "Stavka": 1,
+  "ATK": "B02BA01 151",
+  "INN": "fitomenadion",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 832,
+  "Stavka": 1,
+  "ATK": "V09IX04 051",
+  "INN": "fludeoksiglukoza (18F)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 833,
+  "Stavka": 1,
+  "ATK": "H02AA02 151",
+  "INN": "fludrokortizon",
+  "Oblik": "tbl. 0,1 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 834,
+  "Stavka": 1,
+  "ATK": "S01JA01 751",
+  "INN": "fluorescein",
+  "Oblik": "amp. 10% 5 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 835,
+  "Stavka": 1,
+  "ATK": "J01XX01 051",
+  "INN": "fosfomicin",
+  "Oblik": "40mg\/ml, prašak za otopinu za infuziju",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 836,
+  "Stavka": 1,
+  "ATK": "V06DC01 051",
+  "INN": "glukoza (amp. 37 %)",
+  "Oblik": "40% amp 10 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 837,
+  "Stavka": 1,
+  "ATK": "V06DC01 052",
+  "INN": "glukoza (amp. 50 %)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 838,
+  "Stavka": 1,
+  "ATK": "H01CA01 751",
+  "INN": "gonadorelin",
+  "Oblik": "4 mg 30 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 839,
+  "Stavka": 1,
+  "ATK": "N05AD01 ",
+  "INN": "haloperidol",
+  "Oblik": "oralne kapi 10 ml (2 mg\/ml )",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 840,
+  "Stavka": 1,
+  "ATK": "A01AB12 451",
+  "INN": "heksetidin",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 841,
+  "Stavka": 1,
+  "ATK": "A03BB01 051",
+  "INN": "hioscin-butilbromid",
+  "Oblik": "otop. za inj. 20 mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 842,
+  "Stavka": 1,
+  "ATK": "J06BB09 051",
+  "INN": "hiperimuni anti-citomegalo virus (ljudski)",
+  "Oblik": "100 U\/ml, otopina za infuziju, amp. 10 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 842,
+  "Stavka": 2,
+  "ATK": "J06BB09 051",
+  "INN": "hiperimuni anti-citomegalo virus (ljudski)",
+  "Oblik": "100 U\/ml, otopina za infuziju, amp. 50 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 843,
+  "Stavka": 1,
+  "ATK": "S01KA02 751",
+  "INN": "hipromeloza",
+  "Oblik": "kapi za oči 2%, 30g",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 844,
+  "Stavka": 1,
+  "ATK": "S01KA02 751",
+  "INN": "hipromeloza",
+  "Oblik": "kapi za oči 15ml (5mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 845,
+  "Stavka": 1,
+  "ATK": "L01AA06 051",
+  "INN": "ifosfamid",
+  "Oblik": "boč. 500 mg prašak za otopinu za injekciju\/infuziju",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 845,
+  "Stavka": 2,
+  "ATK": "L01AA06 051",
+  "INN": "ifosfamid",
+  "Oblik": "boč. 1000 mg ifosfamida prašak za otopinu za injekciju\/infuziju",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 846,
+  "Stavka": 1,
+  "ATK": "J06BB04 051",
+  "INN": "imunoglobulin anti-HBs (ljudski)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 847,
+  "Stavka": 1,
+  "ATK": "J06BB02 051",
+  "INN": "imunoglobulin antitetanus - TIG (ljudski)",
+  "Oblik": " špr. 250 ij\/ ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 848,
+  "Stavka": 1,
+  "ATK": "J06BB02 054",
+  "INN": "imunoglobulin antitetanus hiperimuni (5000i.j.)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 849,
+  "Stavka": 1,
+  "ATK": "J06BB05 051",
+  "INN": "imunoglobulin protiv bjesnoće (ljudski)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 850,
+  "Stavka": 1,
+  "ATK": "J06BB12 051",
+  "INN": "imunoglobulin protiv krpeljnog meningoencefalitisa (ljudski) ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 851,
+  "Stavka": 1,
+  "ATK": "J06BB03 051",
+  "INN": "imunoglobulin Varicella\/zoster",
+  "Oblik": "amp. 1x20 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 851,
+  "Stavka": 2,
+  "ATK": "J06BB03 051",
+  "INN": "imunoglobulin Varicella\/zoster",
+  "Oblik": "amp. 1x5 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 852,
+  "Stavka": 1,
+  "ATK": "J06BA02 051",
+  "INN": "imunoglobulin za intraven. primjenu 5 S",
+  "Oblik": " otop. za inf. 1x100ml (50mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 852,
+  "Stavka": 2,
+  "ATK": "J06BA02 051",
+  "INN": "imunoglobulin za intraven. primjenu 5 S",
+  "Oblik": " otop. za inf. 1x10ml (50mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 853,
+  "Stavka": 1,
+  "ATK": "L04AA03 051",
+  "INN": "imunoglobulin-antilimfocitniALG",
+  "Oblik": "50mg\/ml, 5ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 854,
+  "Stavka": 1,
+  "ATK": "J06AA04 051",
+  "INN": "imunoglobulin-antitoksin botulinum",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 855,
+  "Stavka": 1,
+  "ATK": "J06AA07 053",
+  "INN": "imunoglobulin-antitoksin protiv otrova pauka (crna udovica)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 856,
+  "Stavka": 1,
+  "ATK": "M01AB01 051",
+  "INN": "indometacin ",
+  "Oblik": " amp 50 mg\/2 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 857,
+  "Stavka": 1,
+  "ATK": "J04AC51 052",
+  "INN": "izoniazid + piridoksin ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 858,
+  "Stavka": 1,
+  "ATK": "J04AC51 151",
+  "INN": "izoniazid + piridoksin ",
+  "Oblik": " film tbl. 200 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 859,
+  "Stavka": 1,
+  "ATK": "V08AC01 053",
+  "INN": "jodoksaminska kiselina meglumin-jodoksamat",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 860,
+  "Stavka": 1,
+  "ATK": "V08AB03 052",
+  "INN": "joksaglikanska kiselina",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 861,
+  "Stavka": 1,
+  "ATK": "V03AF03 151",
+  "INN": "kalcij-folinat ",
+  "Oblik": " caps.\/tbl. 15 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 862,
+  "Stavka": 1,
+  "ATK": "A12AA02 051",
+  "INN": "kalcij-glukobionat",
+  "Oblik": " 10% amp. 10 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 863,
+  "Stavka": 1,
+  "ATK": "A11CC04 051",
+  "INN": "kalcitriol ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 864,
+  "Stavka": 1,
+  "ATK": "S01EB02 751",
+  "INN": "karbakol",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 865,
+  "Stavka": 1,
+  "ATK": "L01AD01 051",
+  "INN": "karmustin",
+  "Oblik": "praš. i otap. za inj. 100 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 866,
+  "Stavka": 1,
+  "ATK": "N01AX03 051",
+  "INN": "ketamin-klorid",
+  "Oblik": "amp.\/boč. 10 ml(50mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 866,
+  "Stavka": 2,
+  "ATK": "N01AX03 051",
+  "INN": "ketamin-klorid",
+  "Oblik": "amp.\/boč. 2 ml(50 mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 867,
+  "Stavka": 1,
+  "ATK": "P01BC01 151",
+  "INN": "kinin-sulfat",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 868,
+  "Stavka": 1,
+  "ATK": "R03CB04 952",
+  "INN": "kisik",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 869,
+  "Stavka": 1,
+  "ATK": "N05BA09 151",
+  "INN": "klobazam",
+  "Oblik": "tbl 10 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 870,
+  "Stavka": 1,
+  "ATK": "G03GB02 151",
+  "INN": "klomifen ",
+  "Oblik": "tbl. 50 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 871,
+  "Stavka": 1,
+  "ATK": "N06AA04 051",
+  "INN": "klomipramin",
+  "Oblik": "amp. 2 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 872,
+  "Stavka": 1,
+  "ATK": "N06AA04 151",
+  "INN": "klomipramin ",
+  "Oblik": "tbl.\/drag. 25 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 873,
+  "Stavka": 1,
+  "ATK": "N03AE01 052",
+  "INN": "klonazepam ",
+  "Oblik": "amp. 1 mg\/1 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 874,
+  "Stavka": 1,
+  "ATK": "L01AA02 151",
+  "INN": "klorambucil",
+  "Oblik": "tbl. 2mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 875,
+  "Stavka": 1,
+  "ATK": "D06AX02 451",
+  "INN": "kloramfenikol",
+  "Oblik": "1% mast za oči 5 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 875,
+  "Stavka": 2,
+  "ATK": "D06AX02 451",
+  "INN": "kloramfenikol",
+  "Oblik": "1% mast za oči 4 g",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 876,
+  "Stavka": 1,
+  "ATK": "J01BA01 052",
+  "INN": "kloramfenikol",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 877,
+  "Stavka": 1,
+  "ATK": "N01BX01 454",
+  "INN": "kloretil (etil-klorid)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 878,
+  "Stavka": 1,
+  "ATK": "L01AA05 052",
+  "INN": "klormetin",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 879,
+  "Stavka": 1,
+  "ATK": "P01BA01 151",
+  "INN": "klorokin ",
+  "Oblik": "tbl. 250 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 880,
+  "Stavka": 1,
+  "ATK": "C03BA04 151",
+  "INN": "klortalidon ",
+  "Oblik": "tbl. 25 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 881,
+  "Stavka": 1,
+  "ATK": "N05AH02 051",
+  "INN": "klozapin",
+  "Oblik": "amp. 50 mg \/ 2 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 882,
+  "Stavka": 1,
+  "ATK": "N06BC01 051",
+  "INN": "kofein citrat",
+  "Oblik": "boč. 20 mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 883,
+  "Stavka": 1,
+  "ATK": "C10AC01 354",
+  "INN": "kolestiramin ",
+  "Oblik": "plv\/oral.granule 4 g",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 884,
+  "Stavka": 1,
+  "ATK": "M04AC01 152",
+  "INN": "kolhicin ",
+  "Oblik": "tbl. 0,5 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 885,
+  "Stavka": 1,
+  "ATK": "G03GA01 051",
+  "INN": "koriogonadotropin",
+  "Oblik": "amp. 1500 IU",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 886,
+  "Stavka": 1,
+  "ATK": "P03AX05 451",
+  "INN": "krotamiton (krema)",
+  "Oblik": "10% 40 g",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 887,
+  "Stavka": 1,
+  "ATK": "P03AX05 752",
+  "INN": "krotamiton (losion)",
+  "Oblik": "10% 100 g",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 888,
+  "Stavka": 1,
+  "ATK": "L01XX02 051",
+  "INN": "L-asparaginaza",
+  "Oblik": "inj.\/boč. 10.000 i.j.",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 889,
+  "Stavka": 1,
+  "ATK": "A16AA01 051",
+  "INN": "levokarnitin",
+  "Oblik": "injekcije 1 g\/5 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 889,
+  "Stavka": 2,
+  "ATK": "A16AA01 151",
+  "INN": "levokarnitin",
+  "Oblik": "oralna susp. \/ oralna otopina 1 g\/10 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 890,
+  "Stavka": 1,
+  "ATK": "H03AA01 051",
+  "INN": "levotiroksin ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 891,
+  "Stavka": 1,
+  "ATK": "C01BB01 051",
+  "INN": "lidokain",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 892,
+  "Stavka": 1,
+  "ATK": "H03AA02 051",
+  "INN": "liotironin  ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 893,
+  "Stavka": 1,
+  "ATK": "C02AB01 151",
+  "INN": "l-metildopa",
+  "Oblik": "tbl. 250mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 894,
+  "Stavka": 1,
+  "ATK": "L01AD02 151",
+  "INN": "lomustin",
+  "Oblik": "caps. 40 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 895,
+  "Stavka": 1,
+  "ATK": "B05XA05 051",
+  "INN": "magnezij-sulfat",
+  "Oblik": "10% amp. 10 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 896,
+  "Stavka": 1,
+  "ATK": "P02CA01 151",
+  "INN": "mebendazol",
+  "Oblik": "tbl. 100 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 897,
+  "Stavka": 1,
+  "ATK": "P02CA01 151",
+  "INN": "mebendazol",
+  "Oblik": "susp. 35 ml (100mg\/5ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 898,
+  "Stavka": 1,
+  "ATK": "V08AA11 051",
+  "INN": "meglumin-amidotrizoat-65%",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 899,
+  "Stavka": 1,
+  "ATK": "L01AA03 051",
+  "INN": "melfalan",
+  "Oblik": "50mg prašak i otapalo, za otopinu za inj\/inf",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 900,
+  "Stavka": 1,
+  "ATK": "L01AA03 151",
+  "INN": "melfalan",
+  "Oblik": " tbl. 2 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 901,
+  "Stavka": 1,
+  "ATK": "N05BC01 151",
+  "INN": "meprobamat ",
+  "Oblik": "tbl. 400 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 902,
+  "Stavka": 1,
+  "ATK": "L01BB02 151",
+  "INN": "merkaptopurin",
+  "Oblik": "tbl 50 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 903,
+  "Stavka": 1,
+  "ATK": "V03AF01 051",
+  "INN": "mesna (merkaptoetan-sulfonska kiselina)",
+  "Oblik": "amp. 400 mg                                              ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 904,
+  "Stavka": 1,
+  "ATK": "C01AA08 051",
+  "INN": "metildigoksin",
+  "Oblik": " amp 0,2mg\/2ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 905,
+  "Stavka": 1,
+  "ATK": "G02AB01 051",
+  "INN": "metilergometrin",
+  "Oblik": " amp 0,2mg\/1ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 906,
+  "Stavka": 1,
+  "ATK": "G02AB01 251",
+  "INN": "metilergometrin",
+  "Oblik": "otop. 15 ml (0,25 mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 907,
+  "Stavka": 1,
+  "ATK": "V04CD01 051",
+  "INN": "metirapon",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 908,
+  "Stavka": 1,
+  "ATK": "A03FA01 051",
+  "INN": "metoklopramid ",
+  "Oblik": "otopina za injekciju 10 mg\/2ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 909,
+  "Stavka": 1,
+  "ATK": "D05BA02 151",
+  "INN": "metoksalen (metoksipsoralen)",
+  "Oblik": "tbl. 10 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 910,
+  "Stavka": 1,
+  "ATK": "C02DC01 151",
+  "INN": "minoksidil",
+  "Oblik": "tbl. 5 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 911,
+  "Stavka": 1,
+  "ATK": "L01DB07 051",
+  "INN": "mitoksantron",
+  "Oblik": "amp. 20 mg\/10 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 912,
+  "Stavka": 1,
+  "ATK": "L01DC03 051",
+  "INN": "mitomicin-D",
+  "Oblik": "amp.\/boč. 20 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 913,
+  "Stavka": 1,
+  "ATK": "N06BA07 151",
+  "INN": "modafinil",
+  "Oblik": "tbl. 100 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 914,
+  "Stavka": 1,
+  "ATK": "L03AA03 051",
+  "INN": "molgramostim",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 915,
+  "Stavka": 1,
+  "ATK": "L04AG01 051",
+  "INN": "muromonab (CD3)",
+  "Oblik": "amp.\/boč. 5 ml (1mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 916,
+  "Stavka": 1,
+  "ATK": "V03AB15 055",
+  "INN": "nalokson",
+  "Oblik": "amp. 0,4 mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 917,
+  "Stavka": 1,
+  "ATK": "M01CB01 051",
+  "INN": "natrij-aurotiomalat",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 918,
+  "Stavka": 1,
+  "ATK": "B05XA02 052",
+  "INN": "natrij-hidrogenkarbonat",
+  "Oblik": "amp. 10 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 919,
+  "Stavka": 1,
+  "ATK": "B05XA02 052",
+  "INN": "natrij-hidrogenkarbonat",
+  "Oblik": "amp. 20 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 920,
+  "Stavka": 1,
+  "ATK": "B05XA02 052",
+  "INN": "natrij-hidrogenkarbonat",
+  "Oblik": "boč. 100 ml 8,4%",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 921,
+  "Stavka": 1,
+  "ATK": "V03AB03 052",
+  "INN": "natrij-kalcij-edetat",
+  "Oblik": "amp. 5 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 922,
+  "Stavka": 1,
+  "ATK": "B05BB01 051",
+  "INN": "natrij-klorid ",
+  "Oblik": "amp. 10%, 1x10 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 923,
+  "Stavka": 1,
+  "ATK": "N03AG01 251",
+  "INN": "natrij-valproat ",
+  "Oblik": "oralna otopina\/boč., 300 mg\/ml    ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 924,
+  "Stavka": 1,
+  "ATK": "N07AA01 051",
+  "INN": "neostigminij",
+  "Oblik": "amp 0,5mg\/ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 925,
+  "Stavka": 1,
+  "ATK": "N07AA01 151",
+  "INN": "neostigminij",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 926,
+  "Stavka": 1,
+  "ATK": "J01GB07 051",
+  "INN": "netilmicin",
+  "Oblik": "amp. 150 mg\/1,5 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 927,
+  "Stavka": 1,
+  "ATK": "G01AA01 651",
+  "INN": "nistatin",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 928,
+  "Stavka": 1,
+  "ATK": "A16AX04 151",
+  "INN": "nitizinon",
+  "Oblik": "caps 20 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 928,
+  "Stavka": 2,
+  "ATK": "A16AX04 151",
+  "INN": "nitizinon",
+  "Oblik": "caps 5 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 929,
+  "Stavka": 1,
+  "ATK": "C02DD01 051",
+  "INN": "nitroprusid-natrij ",
+  "Oblik": "amp. 60 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 930,
+  "Stavka": 1,
+  "ATK": "J01MA01 052",
+  "INN": "ofloksacin",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 931,
+  "Stavka": 1,
+  "ATK": "G04BD04 151",
+  "INN": "oksibutinin",
+  "Oblik": "tbl. 5 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 932,
+  "Stavka": 1,
+  "ATK": "R03CB03 083",
+  "INN": "orciprenalin",
+  "Oblik": "amp. 1 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 933,
+  "Stavka": 1,
+  "ATK": "J06BD01 051",
+  "INN": "palivizumab",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 934,
+  "Stavka": 1,
+  "ATK": "M03AC01 051",
+  "INN": "pankuronij",
+  "Oblik": "amp. 4 mg\/2 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 935,
+  "Stavka": 1,
+  "ATK": "N02BE01 151",
+  "INN": "paracetamol",
+  "Oblik": "tbl 500mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 936,
+  "Stavka": 1,
+  "ATK": "N02BE01 151",
+  "INN": "paracetamol",
+  "Oblik": "caps. 300 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 937,
+  "Stavka": 1,
+  "ATK": "N02BE01 551",
+  "INN": "paracetamol",
+  "Oblik": "supp. 120 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 937,
+  "Stavka": 2,
+  "ATK": "N02BE01 551",
+  "INN": "paracetamol",
+  "Oblik": "supp. 250 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 938,
+  "Stavka": 1,
+  "ATK": "N02BE01 551",
+  "INN": "paracetamol",
+  "Oblik": "supp. 80 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 938,
+  "Stavka": 2,
+  "ATK": "N02BE01 551",
+  "INN": "paracetamol",
+  "Oblik": "supp. 150 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 939,
+  "Stavka": 1,
+  "ATK": "J01MA03 051",
+  "INN": "pefloksacin",
+  "Oblik": "amp. 400 mg\/5 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 940,
+  "Stavka": 1,
+  "ATK": "J01MA03 151",
+  "INN": "pefloksacin",
+  "Oblik": "tbl. 400 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 941,
+  "Stavka": 1,
+  "ATK": "M01CC01 151",
+  "INN": "penicilamin ",
+  "Oblik": "caps. 250 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 942,
+  "Stavka": 1,
+  "ATK": "M01CC01 151",
+  "INN": "penicilamin ",
+  "Oblik": "tbl. 300 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 943,
+  "Stavka": 1,
+  "ATK": "M01CC01 151",
+  "INN": "penicilamin ",
+  "Oblik": "tbl. 50 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 944,
+  "Stavka": 1,
+  "ATK": "M01CC01 151",
+  "INN": "penicilamin ",
+  "Oblik": "tbl. 150 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 945,
+  "Stavka": 1,
+  "ATK": "N02AB02 051",
+  "INN": "petidin",
+  "Oblik": "amp. 50mg\/1 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 946,
+  "Stavka": 1,
+  "ATK": "N02AB02 051",
+  "INN": "petidin",
+  "Oblik": "amp. 100mg\/2 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 947,
+  "Stavka": 1,
+  "ATK": "P03AC01 451",
+  "INN": "piretrin",
+  "Oblik": "šampon 0,3% 60 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 948,
+  "Stavka": 1,
+  "ATK": "N07AA02 052",
+  "INN": "piridostigminij ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 949,
+  "Stavka": 1,
+  "ATK": "N07AA02 152",
+  "INN": "piridostigminij ",
+  "Oblik": "retard tbl. 180mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 950,
+  "Stavka": 1,
+  "ATK": "P01BD01 152",
+  "INN": "pirimetamin ",
+  "Oblik": "tbl. 25 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 951,
+  "Stavka": 1,
+  "ATK": "V03AB04 054",
+  "INN": "pralidoksim ",
+  "Oblik": " boč.\/amp. 200 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 952,
+  "Stavka": 1,
+  "ATK": "V03AB04 153",
+  "INN": "pralidoksim ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 953,
+  "Stavka": 1,
+  "ATK": "P02BA01 151",
+  "INN": "prazikvantel ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 954,
+  "Stavka": 1,
+  "ATK": "H02AB07 551",
+  "INN": "prednizon ",
+  "Oblik": "supp. 100 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 955,
+  "Stavka": 1,
+  "ATK": "N03AA03 151",
+  "INN": "primidon ",
+  "Oblik": "tbl. 250 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 956,
+  "Stavka": 1,
+  "ATK": "G03DA04 051",
+  "INN": "progesteron",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 957,
+  "Stavka": 1,
+  "ATK": "J01CE09 051",
+  "INN": "prokain benzilpenicilin",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 958,
+  "Stavka": 1,
+  "ATK": "L01XB01 151",
+  "INN": "prokarbazin",
+  "Oblik": "caps. 50 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 959,
+  "Stavka": 1,
+  "ATK": "N05AA03 051",
+  "INN": "promazin",
+  "Oblik": "amp. 50 mg\/2 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 960,
+  "Stavka": 1,
+  "ATK": "V03AB14 051",
+  "INN": "protamin-sulfat",
+  "Oblik": " 1% amp., 5 ml (10 mg\/ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 961,
+  "Stavka": 1,
+  "ATK": "J04AD01 151",
+  "INN": "protionamid",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 962,
+  "Stavka": 1,
+  "ATK": "V04CJ02 051",
+  "INN": "protirelin (TRH)",
+  "Oblik": "amp. 0,2 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 963,
+  "Stavka": 1,
+  "ATK": "A02BA02 051",
+  "INN": "ranitidin",
+  "Oblik": "amp. 50 mg\/2 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 964,
+  "Stavka": 1,
+  "ATK": "J04AB04 151",
+  "INN": "rifabutin",
+  "Oblik": "caps 150 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 965,
+  "Stavka": 1,
+  "ATK": "J04AB02 051",
+  "INN": "rifampicin",
+  "Oblik": "amp. 600 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 966,
+  "Stavka": 1,
+  "ATK": "J05AE03 151",
+  "INN": "ritonavir",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 967,
+  "Stavka": 1,
+  "ATK": "J01GA01 051",
+  "INN": "streptomicin ",
+  "Oblik": "amp. 1 g",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 968,
+  "Stavka": 1,
+  "ATK": "M03AB01 051",
+  "INN": "suksametonij",
+  "Oblik": "boč.\/amp. 100 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 969,
+  "Stavka": 1,
+  "ATK": "J01EE01 051",
+  "INN": "sulfametoksazol + trimetoprim ",
+  "Oblik": "amp. 400mg + 80mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 970,
+  "Stavka": 1,
+  "ATK": "R07AA02 051",
+  "INN": "surfaktant, prirodni (goveđi)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 971,
+  "Stavka": 1,
+  "ATK": "L04AD02 052",
+  "INN": "takrolimus",
+  "Oblik": "amp. 5 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 972,
+  "Stavka": 1,
+  "ATK": "G03BA03 151",
+  "INN": "testosteron",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 973,
+  "Stavka": 1,
+  "ATK": "J07AM01 051",
+  "INN": "tetanus anatoksin ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 974,
+  "Stavka": 1,
+  "ATK": "H01AA02 051",
+  "INN": "tetrakozaktid (tetracosactrin) ",
+  "Oblik": "amp  0,25 mg\/1 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 974,
+  "Stavka": 2,
+  "ATK": "H01AA02 051",
+  "INN": "tetrakozaktid (tetracosactrin) ",
+  "Oblik": "amp  1 mg\/1 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 975,
+  "Stavka": 1,
+  "ATK": "H03BB02 051",
+  "INN": "tiamazol",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 976,
+  "Stavka": 1,
+  "ATK": "L01BB03 151",
+  "INN": "tioguanin",
+  "Oblik": " tbl. 40mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 977,
+  "Stavka": 1,
+  "ATK": "N01AF03 051",
+  "INN": "tiopental-natrij",
+  "Oblik": "amp.\/boč. 0,5 g",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 977,
+  "Stavka": 2,
+  "ATK": "N01AF03 051",
+  "INN": "tiopental-natrij",
+  "Oblik": "amp.\/boč. 1 g",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 978,
+  "Stavka": 1,
+  "ATK": "B02AA02 151",
+  "INN": "traneksamatna kiselina",
+  "Oblik": "tbl. 500 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 979,
+  "Stavka": 1,
+  "ATK": "N04AA01 151",
+  "INN": "triheksifenidil ",
+  "Oblik": "tbl. 2mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 980,
+  "Stavka": 1,
+  "ATK": "J01EA01 151",
+  "INN": "trimetoprim ",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 981,
+  "Stavka": 1,
+  "ATK": "G04BD09 051",
+  "INN": "trospij",
+  "Oblik": "amp. 0,2 mg\/5 ml",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 982,
+  "Stavka": 1,
+  "ATK": "V04CF01 051",
+  "INN": "tuberkulin",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 983,
+  "Stavka": 1,
+  "ATK": "J01XA01 151",
+  "INN": "vankomicin",
+  "Oblik": "tvrde kapsule 125 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 983,
+  "Stavka": 2,
+  "ATK": "J01XA01 151",
+  "INN": "vankomicin",
+  "Oblik": "tvrde kapsule 250 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 984,
+  "Stavka": 1,
+  "ATK": "M03AC03 051",
+  "INN": "vekuronij",
+  "Oblik": "boč 10 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 985,
+  "Stavka": 1,
+  "ATK": "N03AG04 151",
+  "INN": "vigabatrin",
+  "Oblik": "tbl. 500 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 986,
+  "Stavka": 1,
+  "ATK": "L01CA01 051",
+  "INN": "vinblastin",
+  "Oblik": "otopina za inj. 10mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 987,
+  "Stavka": 1,
+  "ATK": "L01CA03 051",
+  "INN": "vindesin",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 988,
+  "Stavka": 1,
+  "ATK": "A11EA01 051",
+  "INN": "vitamini B kompleksa ",
+  "Oblik": "film tbl.",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 989,
+  "Stavka": 1,
+  "ATK": "J05AF01 252",
+  "INN": "zidovudin",
+  "Oblik": "sirup 200 ml (50 mg\/5 ml)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 990,
+  "Stavka": 1,
+  "ATK": "B03AC02 051",
+  "INN": "željezo III-oksid saharat ",
+  "Oblik": "100 mg",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 991,
+  "Stavka": 1,
+  "ATK": "B03AC05 051",
+  "INN": "željezo III-sorbitol glukonska kiselina",
+  "Oblik": "amp. 5 ml (62,5mg)",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ },
+ {
+  "Grupa": 992,
+  "Stavka": 1,
+  "ATK": "L01AA01 051",
+  "INN": "ciklofosfamid",
+  "Oblik": "2000 mg prašak za otopinu za injekciju\/infuziju - staklena bočica od 100ml s praškom",
+  "JedMj": "kom",
+  "Kolicina": 0,
+  "Cijena": 0
+ }
+]

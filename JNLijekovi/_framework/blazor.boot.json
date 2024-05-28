@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "JNLijekovi",
   "resources": {
-    "hash": "sha256-5iUd3UBRA6hfHyZlwF6L+ymCxznN5OC4eKhM+4tNWSs=",
+    "hash": "sha256-z+3YjXa14AArdhkS3O9ZKwJjsces1kGRTPldAUA/3U8=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.v1ovpfodbd.js": "sha256-jxx4bYiaT3RPdl5elOYB+pmk5J4tC689P3Q0R/PhQNA="
     },
@@ -19,7 +19,7 @@
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "ExcelDataReader.wasm": "sha256-dcy9psbwDXymPNFdzbNB2F+qZgoqZl6UArgsLAN0UWo=",
-      "JNLijekovi.wasm": "sha256-xDOHjykRDxmvInCYWERZK78tib4Wv4Ge1AL1DThn/2Y=",
+      "JNLijekovi.wasm": "sha256-Yrur18nSXUG6JCewZk79JkQhVGh4n3rKo0i5KXpYUiY=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-jQpSuhmgCRZZ4gcusOC0Sk6smWqva6ww9yQar31DmhY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-1cyxXND+thlF1jJ9FR5ENdOWIegV3kzOlfqnymjxo9U=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-sDI21uUZxCSNeFHpH0kDSBgFO5njSyDfbqe7Gc/zWRo=",

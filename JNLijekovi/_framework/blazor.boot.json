@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "JNLijekovi",
   "resources": {
-    "hash": "sha256-CVF0znyc0aQlsh2FW8f91vlh56mEV/6nPTMcoboDqmY=",
+    "hash": "sha256-fFZm8v9vEdrhaukD9lfBcdSAckXL5O4trEs7r0diV8I=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.n56qclqgcd.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.bccwmurmxd.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -47,7 +47,7 @@
       "System.Text.RegularExpressions.pl7zy96iyz.wasm": "System.Text.RegularExpressions.wasm",
       "System.wznexm8bk2.wasm": "System.wasm",
       "System.Private.CoreLib.3cu8ieag7h.wasm": "System.Private.CoreLib.wasm",
-      "JNLijekovi.mc009txo75.wasm": "JNLijekovi.wasm",
+      "JNLijekovi.g2zj784l6l.wasm": "JNLijekovi.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.st0ovrfdhi.js": "dotnet.native.js",
       "dotnet.native.67rumul467.wasm": "dotnet.native.wasm",
@@ -117,7 +117,7 @@
       "System.Text.Json.x3ml3ank1i.wasm": "sha256-0+GoJuo455y2Ss2+/GP1DVJ5zEH9Krg3k8/LGOzgS70=",
       "System.Text.RegularExpressions.pl7zy96iyz.wasm": "sha256-w+hmfGlpAgLGGvJP0fn/Q52eWQocsCJwnOHvTTC674s=",
       "System.wznexm8bk2.wasm": "sha256-/Imz/Enqa2AZc4T3k/CqtsM6674KRN9OUtvK4Nokhew=",
-      "JNLijekovi.mc009txo75.wasm": "sha256-OrESlAWmKkHOcTjggZNGqnNg2Z/xxUxGS9YJMWWcdPE="
+      "JNLijekovi.g2zj784l6l.wasm": "sha256-uMBHsMlmS1OMhlvqWl/k1M6YneGW+IoAd/2ZaoDD034="
     }
   },
   "cacheBootResources": true,

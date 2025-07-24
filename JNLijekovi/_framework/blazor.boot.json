@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "JNLijekovi",
   "resources": {
-    "hash": "sha256-hMnvkMzsdso9AIKJV0PxWXlq2B4KaFDz8qImTPLFzCY=",
+    "hash": "sha256-XG67dfwYMgt+tkPCrfuVpicrYea7e8DWUJ42eiv3QzQ=",
     "fingerprinting": {
       "ClosedXML.6d8ybop3kc.wasm": "ClosedXML.wasm",
       "ClosedXML.Parser.kcd8ka7nog.wasm": "ClosedXML.Parser.wasm",
@@ -81,7 +81,7 @@
       "System.wznexm8bk2.wasm": "System.wasm",
       "netstandard.48x0qeg2fx.wasm": "netstandard.wasm",
       "System.Private.CoreLib.e0xppv3m0b.wasm": "System.Private.CoreLib.wasm",
-      "JNLijekovi.lyikpputci.wasm": "JNLijekovi.wasm",
+      "JNLijekovi.o6a98pp66q.wasm": "JNLijekovi.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.st0ovrfdhi.js": "dotnet.native.js",
       "dotnet.native.67rumul467.wasm": "dotnet.native.wasm",
@@ -185,7 +185,7 @@
       "System.Xml.Linq.hvxjxkvtb2.wasm": "sha256-wwxsYRpXsPfLkFVXXX9uditc29XXKjAFv10/9OYAhf8=",
       "System.wznexm8bk2.wasm": "sha256-/Imz/Enqa2AZc4T3k/CqtsM6674KRN9OUtvK4Nokhew=",
       "netstandard.48x0qeg2fx.wasm": "sha256-NHqwAZeT2YINQdhovXLAdi7b3ISX6Yvtfd2eRlAbeMQ=",
-      "JNLijekovi.lyikpputci.wasm": "sha256-A4bx3P3Ll5XDCzD4EpvOx7CAh2eQCf+WACPhSsgcPxU="
+      "JNLijekovi.o6a98pp66q.wasm": "sha256-0LepQdaStX94kmvEKaGjE44g5uBGkseY0j4YHDXhMjs="
     }
   },
   "cacheBootResources": true,
